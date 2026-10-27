@@ -164,7 +164,7 @@ We welcome contributions from the workforce planning, FP&A, and people analytics
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a dedicated branch**: `git checkout -b feature/add-workforce-tool`.
-3. 📝 **Add or update entries**: Follow the established tabular format for SaaS (verified starting pricing, explicit free tier limits, and valuation/revenue) or list format for open-source (Shields.io star badge with `style=social&color=white` linking to stargazers).
+3. 📝 **Add or update entries**: Follow the established tabular format for SaaS (verified starting pricing, explicit free tier limits, and valuation/revenue) or list format for open-source (Shields.io Stars_Badge with `style=social&color=white` linking to stargazers).
 4. ✅ **Ensure accuracy**: Avoid vague terms like 'Custom' or 'None'—include specific trial durations and pricing tiers.
 5. 🚀 **Submit a Pull Request**: Include a brief description of the addition and relevant documentation links.
 
